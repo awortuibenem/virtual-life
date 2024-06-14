@@ -1,0 +1,20 @@
+[
+    {
+        "name": "sere",
+        "age": 20,
+        "traits": [
+            "dev"
+        ],
+        "experience": 10,
+        "events": [
+            {
+                "description": "faced a health issue",
+                "experience": -5
+            },
+            {
+                "description": "got a job offer",
+                "experience": 15
+            }
+        ]
+    }
+]
